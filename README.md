@@ -1,0 +1,2 @@
+# Arquitectura_Computadoras2025_Rychye_Haacke
+Repositorio para trabajos de arquitectura
